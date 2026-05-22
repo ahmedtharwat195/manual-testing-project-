@@ -16,13 +16,6 @@ Fields Covered: Customer ID, Account Type (dropdown), Initial Deposit
 
 🐛 Bug Report Summary (19 Bugs)
 By Severity
-SeverityCount🔴 Critical5🟠 High1🟡 Medium4🔵 Low9
+SeverityCount🔴 Critical🟠 High🟡 Medium🔵 Low
 
-📁 File Structure
-Manual_Project.xlsx
-├── UI testing           – UI layout test cases
-├── Login Functionality  – Login module test cases
-├── Add New Customer Functionality – Form validation test cases
-├── Add new account form – Account creation test cases
-├── Bug Report           – All reported bugs with steps to reproduce
-└── Test Summary         – Metrics overview
+
